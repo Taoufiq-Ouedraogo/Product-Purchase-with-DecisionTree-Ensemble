@@ -1,5 +1,4 @@
-# Ignore cache directory
 cache/
-
-# Ignore macOS system files
+.DS_Store
+.ipynb_checkpoints
 .DS_Store
